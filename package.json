@@ -1,0 +1,12 @@
+{
+  "name": "grpc-stream-reset-retry-planner",
+  "version": "0.1.0",
+  "description": "规划 gRPC 双向流在连接重置后的安全重放区间",
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
